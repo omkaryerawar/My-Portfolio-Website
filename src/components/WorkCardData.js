@@ -13,14 +13,14 @@ const ProjectCardData =
     {
         imgsrc: pro2,
         title:"Restaurant Website ",
-        text:"Created a fully responsive restaurant website with the help of HTML and CSS.We can see this wesite properly in kind of screen whether it is mobile,tab or desktop screen.",
+        text:"Created a fully responsive restaurant website with the help of HTML and CSS.We can see this website properly on any kind of screen whether it is mobile,tab or desktop screen.",
         view:"https://omkaryerawar.github.io/Restaurant-Website/"
     },
 
     {
         imgsrc: pro3,
         title:"Spotify Clone",
-        text:"Created a music player that have all the features found in a typical music player.We can see this wesite properly in kind of screen whether it is mobile,tab or desktop screen.",
+        text:"Created a music player that has all the features found in a typical music player.We can see this website properly on any kind of screen whether it is mobile,tab or desktop screen.",
         view:"https://omkaryerawar.github.io/SpotifyClone/"
     }
 ];
